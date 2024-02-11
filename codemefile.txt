@@ -1,1 +1,6 @@
 create a codemefile.txt file
+function() {
+this.hello world;
+return hello world;
+}
+function()
